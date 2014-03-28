@@ -1,0 +1,9 @@
+#{"white_adult"=>122.39332158180065, "white_juvenile"=>0.0, "black_adult"=>Infinity, "black_juvenile"=>NaN, "male_juvenile"=>0.0, "female_juvenile"=>0.0}
+Year,White Adult,Black Adult,White Juvenile,Black Juvenile,Male Juvenile,Female Juvenile
+2005,0.0,Infinity,0.0,NaN,0.0,0.0
+2006,10.687757174157003,NaN,0.0,NaN,0.0,0.0
+2007,4.644466118619665,Infinity,0.0,NaN,0.0,0.0
+2008,8.940145724375308,NaN,0.0,NaN,0.0,0.0
+2009,360.67736969430393,Infinity,0.0,NaN,0.0,0.0
+2010,392.2983270956396,Infinity,0.0,NaN,0.0,0.0
+2011,47.819433817903594,NaN,0.0,NaN,0.0,0.0

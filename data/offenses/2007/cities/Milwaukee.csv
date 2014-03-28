@@ -1,0 +1,41 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Wisconsin","Aggravated assault",619,195,122,25,38,114
+"Wisconsin","Other assaults",3279,1224,904,149,391,667
+"Wisconsin","Weapons",934,202,316,76,59,335
+"Wisconsin","DUI",469,1007,6,11,2,17
+"Wisconsin","Disorderly conduct",4607,2584,3237,534,1512,2285
+"Wisconsin","All other non-traffic offenses",6362,3147,2146,664,694,2191
+"Wisconsin","Motor vehicle theft",168,42,201,22,17,207
+"Wisconsin","Vandalism",769,348,382,158,103,442
+"Wisconsin","Total Drug Violations",3342,941,725,240,99,874
+"Wisconsin","Sale (subtotal)",1618,363,228,55,23,261
+"Wisconsin","Sale-Marijuana",479,121,115,40,10,146
+"Wisconsin","Manslaughter by negligence",4,2,2,0,0,2
+"Wisconsin","Sex offenses",88,54,104,25,16,113
+"Wisconsin","Liquor",828,1382,47,156,77,129
+"Wisconsin","Rape",117,53,54,9,3,60
+"Wisconsin","Fraud",84,56,8,0,3,5
+"Wisconsin","Possession (subtotal)",1695,571,492,185,76,608
+"Wisconsin","Possession-Marijuana",1389,410,462,180,76,573
+"Wisconsin","Larceny",2134,914,788,210,375,634
+"Wisconsin","Family offenses",159,83,4,4,2,6
+"Wisconsin","",0,0,0,0,0,0
+"Wisconsin","Murder and manslaughter",75,13,15,5,1,19
+"Wisconsin","Robbery",582,130,343,43,29,359
+"Wisconsin","Burglary",252,121,237,60,22,277
+"Wisconsin","Arson",28,7,14,2,0,18
+"Wisconsin","Forgery and counterfeiting",103,18,1,0,0,1
+"Wisconsin","Stolen property",177,32,158,15,14,161
+"Wisconsin","Prostitution",310,237,16,2,16,2
+"Wisconsin","Sale-Opiates",990,205,98,11,13,96
+"Wisconsin","Sale-Synthetic narcotics",18,10,1,1,0,2
+"Wisconsin","Sale-Other drugs",131,27,14,3,0,17
+"Wisconsin","Possession-Opiates",234,112,22,2,0,24
+"Wisconsin","Possession-Synthetic narcotics",16,14,0,1,0,1
+"Wisconsin","Possession-Other drugs",56,35,8,2,0,10
+"Wisconsin","Gambling (total)",85,0,40,1,2,39
+"Wisconsin","Vagrancy",1919,896,0,0,0,0
+"Wisconsin","Curfew and Loitering",0,0,2163,436,608,2020
+"Wisconsin","Runaways",0,0,544,170,366,364
+"Wisconsin","Embezzlement",1,2,0,0,0,0
+"Wisconsin","Drunkenness",0,2,0,0,0,0

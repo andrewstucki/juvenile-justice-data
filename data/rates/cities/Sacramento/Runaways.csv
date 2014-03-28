@@ -1,0 +1,3 @@
+#{"white_adult"=>0.0, "white_juvenile"=>0.0, "black_adult"=>0.0, "black_juvenile"=>1.541901164135379, "male_juvenile"=>0.0, "female_juvenile"=>1.0313318619665435}
+Year,White Adult,Black Adult,White Juvenile,Black Juvenile,Male Juvenile,Female Juvenile
+2005,0.0,0.0,0.0,6.7217853061773205,0.0,6.225099601593626

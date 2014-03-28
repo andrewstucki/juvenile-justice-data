@@ -1,0 +1,37 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Minnesota","Unclassified Arrest",0,0,0,0,0,0
+"Minnesota","Murder and manslaughter",17,1,3,0,0,3
+"Minnesota","Rape",31,12,7,0,0,9
+"Minnesota","Robbery",149,15,82,5,6,90
+"Minnesota","Aggravated assault",458,139,60,5,18,55
+"Minnesota","Burglary",155,50,48,3,3,50
+"Minnesota","Larceny",748,353,275,49,132,223
+"Minnesota","Motor vehicle theft",98,25,29,2,4,29
+"Minnesota","Other assaults",929,408,225,32,94,195
+"Minnesota","Arson",1,3,3,0,2,6
+"Minnesota","Forgery and counterfeiting",112,49,3,2,3,2
+"Minnesota","Fraud",36,31,7,0,3,4
+"Minnesota","Stolen property",110,48,14,2,2,15
+"Minnesota","Vandalism",239,155,92,21,21,115
+"Minnesota","Weapons",299,73,99,11,7,117
+"Minnesota","Prostitution",399,153,8,1,4,6
+"Minnesota","Sex offenses",25,30,6,1,3,5
+"Minnesota","Total Drug Violations",1538,437,117,58,26,170
+"Minnesota","Sale (subtotal)",35,3,0,0,0,0
+"Minnesota","Sale-Opiates",17,1,0,0,0,0
+"Minnesota","Sale-Marijuana",12,1,0,0,0,0
+"Minnesota","Sale-Synthetic narcotics",0,0,0,0,0,0
+"Minnesota","Sale-Other drugs",6,1,0,0,0,0
+"Minnesota","Possession (subtotal)",1503,434,117,58,26,170
+"Minnesota","Possession-Opiates",508,116,6,2,0,8
+"Minnesota","Possession-Marijuana",737,207,103,49,24,146
+"Minnesota","Possession-Synthetic narcotics",5,28,0,0,0,0
+"Minnesota","Possession-Other drugs",253,83,8,7,2,16
+"Minnesota","Family offenses",9,4,0,0,0,0
+"Minnesota","DUI",237,439,2,0,0,2
+"Minnesota","Liquor",1475,1001,44,47,55,82
+"Minnesota","Disorderly conduct",1131,485,276,40,138,197
+"Minnesota","Vagrancy",267,96,3,0,0,3
+"Minnesota","All other non-traffic offenses",3581,990,377,79,101,432
+"Minnesota","Curfew and Loitering",0,0,940,153,440,879
+"Minnesota","Runaways",0,0,419,71,343,259

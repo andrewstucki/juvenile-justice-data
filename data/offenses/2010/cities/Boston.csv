@@ -1,0 +1,34 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Massachusetts","Murder and manslaughter",16,5,4,0,0,4
+"Massachusetts","Rape",34,12,0,1,0,1
+"Massachusetts","Robbery",303,200,118,28,15,131
+"Massachusetts","Aggravated assault",1485,1001,207,70,82,198
+"Massachusetts","Burglary",256,248,40,13,5,48
+"Massachusetts","Larceny",788,942,88,37,48,83
+"Massachusetts","Motor vehicle theft",57,39,11,3,5,9
+"Massachusetts","Other assaults",1216,764,121,47,50,119
+"Massachusetts","Forgery and counterfeiting",41,30,1,0,0,1
+"Massachusetts","Fraud",63,62,0,0,0,0
+"Massachusetts","Stolen property",140,132,20,15,4,32
+"Massachusetts","Vandalism",142,201,17,15,3,30
+"Massachusetts","Weapons",305,94,43,16,3,56
+"Massachusetts","Prostitution",80,89,1,0,1,0
+"Massachusetts","Sex offenses",72,62,6,0,0,6
+"Massachusetts","Total Drug Violations",1476,1272,71,28,0,99
+"Massachusetts","Sale (subtotal)",1062,702,55,20,0,75
+"Massachusetts","Sale-Opiates",796,436,27,7,0,34
+"Massachusetts","Sale-Marijuana",231,128,25,13,0,38
+"Massachusetts","Sale-Synthetic narcotics",35,138,3,0,0,3
+"Massachusetts","Possession (subtotal)",414,570,16,8,0,24
+"Massachusetts","Possession-Opiates",265,444,2,2,0,4
+"Massachusetts","Possession-Marijuana",129,59,14,6,0,20
+"Massachusetts","Possession-Synthetic narcotics",7,53,0,0,0,0
+"Massachusetts","Possession-Other drugs",13,14,0,0,0,0
+"Massachusetts","DUI",114,194,0,0,0,0
+"Massachusetts","Liquor",4,24,0,1,0,1
+"Massachusetts","Disorderly conduct",423,400,120,36,50,108
+"Massachusetts","All other non-traffic offenses",439,386,58,19,14,64
+"Massachusetts","Arson",3,1,0,0,0,0
+"Massachusetts","Gambling (total)",0,2,0,0,0,0
+"Massachusetts","All other gambling",0,2,0,0,0,0
+"Massachusetts","Manslaughter by negligence",2,0,0,0,0,0

@@ -1,0 +1,37 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Oregon","Murder and manslaughter",12,17,2,2,0,4
+"Oregon","Rape",14,34,3,8,0,11
+"Oregon","Robbery",108,136,47,24,16,60
+"Oregon","Aggravated assault",138,308,24,34,16,45
+"Oregon","Burglary",84,252,17,41,10,50
+"Oregon","Larceny",860,2831,313,443,411,399
+"Oregon","Motor vehicle theft",77,338,27,31,6,54
+"Oregon","Other assaults",840,2185,117,145,100,176
+"Oregon","Arson",1,25,2,20,6,16
+"Oregon","Forgery and counterfeiting",50,179,2,3,3,2
+"Oregon","Fraud",61,197,8,3,6,5
+"Oregon","Stolen property",0,14,1,5,2,4
+"Oregon","Vandalism",86,430,22,125,20,135
+"Oregon","Weapons",90,210,31,25,0,59
+"Oregon","Prostitution",69,247,10,4,16,0
+"Oregon","Sex offenses",27,127,2,13,1,14
+"Oregon","Total Drug Violations",1291,2252,41,72,17,101
+"Oregon","Sale (subtotal)",243,321,9,3,4,8
+"Oregon","Sale-Opiates",209,173,9,1,4,6
+"Oregon","Sale-Marijuana",32,47,0,1,0,1
+"Oregon","Sale-Other drugs",2,98,0,1,0,1
+"Oregon","Possession (subtotal)",1048,1931,32,69,13,93
+"Oregon","Possession-Opiates",872,776,9,5,2,12
+"Oregon","Possession-Marijuana",137,548,21,60,9,77
+"Oregon","Possession-Synthetic narcotics",10,23,2,1,0,3
+"Oregon","Possession-Other drugs",29,584,0,3,2,1
+"Oregon","Family offenses",2,13,0,0,0,0
+"Oregon","DUI",190,1919,1,14,7,10
+"Oregon","Liquor",377,2351,37,178,78,148
+"Oregon","Disorderly conduct",289,572,86,29,40,75
+"Oregon","All other non-traffic offenses",641,1393,74,87,42,124
+"Oregon","Curfew and Loitering",0,0,162,197,147,230
+"Oregon","Runaways",0,0,117,209,195,155
+"Oregon","Sale-Synthetic narcotics",0,3,0,0,0,0
+"Oregon","Gambling (total)",1,0,5,0,0,5
+"Oregon","All other gambling",1,0,5,0,0,5

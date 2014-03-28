@@ -1,0 +1,36 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Texas","Murder and manslaughter",21,58,1,0,0,1
+"Texas","Robbery",102,453,13,54,5,62
+"Texas","Aggravated assault",165,787,12,57,18,51
+"Texas","Burglary",88,638,32,103,5,130
+"Texas","Larceny",965,6576,104,771,484,392
+"Texas","Motor vehicle theft",118,470,10,52,8,54
+"Texas","Other assaults",1307,7746,65,472,216,321
+"Texas","Arson",5,30,1,4,0,5
+"Texas","Forgery and counterfeiting",60,230,0,6,2,4
+"Texas","Fraud",30,201,0,9,1,8
+"Texas","Vandalism",103,714,18,225,16,227
+"Texas","Weapons",235,974,11,75,5,81
+"Texas","Prostitution",49,415,0,1,1,0
+"Texas","Sex offenses",44,376,1,15,2,14
+"Texas","Total Drug Violations",2461,10971,101,675,101,675
+"Texas","Sale (subtotal)",1318,5677,35,117,24,128
+"Texas","Sale-Marijuana",10,54,0,12,3,9
+"Texas","Sale-Synthetic narcotics",1303,5605,35,104,21,118
+"Texas","Possession (subtotal)",1143,5294,66,558,77,547
+"Texas","Possession-Marijuana",1138,5258,66,558,77,547
+"Texas","Possession-Synthetic narcotics",0,1,0,0,0,0
+"Texas","Possession-Other drugs",5,35,0,0,0,0
+"Texas","Gambling (total)",0,6,0,0,0,0
+"Texas","Number and lottery",0,6,0,0,0,0
+"Texas","Family offenses",30,278,0,1,1,0
+"Texas","DUI",595,6203,0,16,4,12
+"Texas","Liquor",12,143,0,0,0,0
+"Texas","Drunkenness",198,3059,0,10,0,10
+"Texas","Disorderly conduct",77,440,7,40,13,34
+"Texas","All other non-traffic offenses",1075,4865,81,360,86,355
+"Texas","Curfew and Loitering",0,0,101,1143,400,845
+"Texas","Runaways",0,0,4,38,23,19
+"Texas","Manslaughter by negligence",0,11,0,1,0,1
+"Texas","Sale-Other drugs",5,18,0,1,0,1
+"Texas","Rape",1,13,0,0,0,0

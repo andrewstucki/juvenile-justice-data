@@ -1,0 +1,40 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Illinois","",0,0,0,0,0,0
+"Illinois","Murder and manslaughter",255,67,34,15,4,46
+"Illinois","Rape",294,147,60,14,0,74
+"Illinois","Robbery",1193,392,1176,120,94,1206
+"Illinois","Aggravated assault",2321,988,1347,324,329,1345
+"Illinois","Burglary",1232,704,784,200,46,946
+"Illinois","Larceny",6561,4666,1944,601,977,1598
+"Illinois","Other assaults",14026,7514,4659,1065,1838,3912
+"Illinois","Arson",42,36,19,13,9,23
+"Illinois","Forgery and counterfeiting",352,113,11,6,4,13
+"Illinois","Fraud",867,339,69,26,13,82
+"Illinois","Stolen property",28,20,17,15,3,29
+"Illinois","Vandalism",1785,1649,925,1050,174,1823
+"Illinois","Weapons",2130,600,757,235,93,904
+"Illinois","Prostitution",2252,1691,36,22,34,24
+"Illinois","Total Drug Violations",37489,10124,5861,1411,425,6872
+"Illinois","Sale (subtotal)",115,55,15,6,1,20
+"Illinois","Sale-Opiates",70,31,6,1,0,7
+"Illinois","Sale-Marijuana",41,20,9,4,1,12
+"Illinois","Possession (subtotal)",379,342,81,86,26,144
+"Illinois","Possession-Opiates",143,155,11,3,3,11
+"Illinois","Possession-Marijuana",226,168,65,78,20,126
+"Illinois","Possession-Synthetic narcotics",1,10,0,1,0,1
+"Illinois","Possession-Other drugs",9,9,5,4,3,6
+"Illinois","Family offenses",257,165,5,3,3,5
+"Illinois","DUI",1784,3722,9,25,3,33
+"Illinois","Liquor",616,630,138,274,75,342
+"Illinois","Disorderly conduct",11517,7225,1866,1509,624,2768
+"Illinois","Vagrancy",53,22,0,0,0,0
+"Illinois","All other non-traffic offenses",16354,5875,2944,836,516,3290
+"Illinois","Curfew and Loitering",0,0,402,449,322,539
+"Illinois","Sex offenses",671,415,63,22,2,84
+"Illinois","Manslaughter by negligence",10,3,0,1,0,1
+"Illinois","Sale-Synthetic narcotics",0,4,0,1,0,1
+"Illinois","Runaways",0,0,11,7,11,7
+"Illinois","Gambling (total)",3091,24,1062,8,7,1065
+"Illinois","Sale-Other drugs",4,0,0,0,0,0
+"Illinois","Motor vehicle theft",2783,678,1400,242,186,1461
+"Illinois","Embezzlement",1,0,0,0,0,0

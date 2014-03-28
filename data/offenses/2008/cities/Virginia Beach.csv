@@ -1,0 +1,38 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Virginia","Rape",6,6,1,4,0,5
+"Virginia","Robbery",101,35,39,10,0,49
+"Virginia","Aggravated assault",61,75,13,13,1,25
+"Virginia","Burglary",113,108,48,99,5,143
+"Virginia","Larceny",562,734,296,288,219,381
+"Virginia","Motor vehicle theft",19,27,18,5,7,16
+"Virginia","Other assaults",1207,1812,377,340,272,451
+"Virginia","Arson",4,6,3,12,5,10
+"Virginia","Forgery and counterfeiting",94,74,5,7,6,6
+"Virginia","Fraud",104,195,5,5,4,8
+"Virginia","Embezzlement",52,48,2,0,0,2
+"Virginia","Stolen property",22,25,12,7,1,18
+"Virginia","Vandalism",79,153,59,93,25,131
+"Virginia","Weapons",203,84,24,35,2,60
+"Virginia","Prostitution",20,51,0,0,0,0
+"Virginia","Sex offenses",20,49,5,16,1,20
+"Virginia","Total Drug Violations",822,987,85,242,40,290
+"Virginia","Sale (subtotal)",200,153,7,12,1,18
+"Virginia","Sale-Opiates",120,60,1,0,0,1
+"Virginia","Sale-Marijuana",71,71,5,9,1,13
+"Virginia","Sale-Other drugs",9,21,1,3,0,4
+"Virginia","Possession (subtotal)",597,790,77,215,37,258
+"Virginia","Possession-Opiates",126,154,1,4,0,5
+"Virginia","Possession-Marijuana",461,585,76,189,34,234
+"Virginia","Possession-Synthetic narcotics",2,5,0,1,0,1
+"Virginia","Possession-Other drugs",8,46,0,21,3,18
+"Virginia","Family offenses",33,23,0,0,0,0
+"Virginia","DUI",527,2059,0,19,9,10
+"Virginia","Liquor",274,842,59,344,165,243
+"Virginia","Drunkenness",1161,2921,4,21,5,20
+"Virginia","Disorderly conduct",393,426,81,57,34,105
+"Virginia","Vagrancy",10,62,0,0,0,0
+"Virginia","All other non-traffic offenses",3924,5333,214,472,158,537
+"Virginia","Curfew and Loitering",0,0,299,524,288,547
+"Virginia","Runaways",0,0,3,4,5,2
+"Virginia","Murder and manslaughter",8,1,1,0,1,0
+"Virginia","Sale-Synthetic narcotics",0,1,0,0,0,0

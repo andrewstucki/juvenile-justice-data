@@ -1,0 +1,41 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Hawaii","Rape",10,35,6,2,0,13
+"Hawaii","Robbery",18,86,2,18,25,106
+"Hawaii","Aggravated assault",45,272,5,19,20,71
+"Hawaii","Burglary",12,177,3,40,13,132
+"Hawaii","Larceny",103,1460,47,293,633,702
+"Hawaii","Motor vehicle theft",12,145,0,16,11,50
+"Hawaii","Other assaults",237,1431,39,183,267,517
+"Hawaii","Fraud",11,122,1,3,2,13
+"Hawaii","Stolen property",0,21,0,1,3,15
+"Hawaii","Vandalism",18,171,3,60,30,183
+"Hawaii","Weapons",6,89,1,10,2,30
+"Hawaii","Prostitution",42,97,1,0,1,0
+"Hawaii","Sex offenses",12,78,7,9,1,69
+"Hawaii","Total Drug Violations",68,848,25,186,119,458
+"Hawaii","Sale (subtotal)",6,141,0,1,0,10
+"Hawaii","Sale-Marijuana",4,71,0,1,0,10
+"Hawaii","Sale-Synthetic narcotics",1,8,0,0,0,0
+"Hawaii","Sale-Other drugs",1,59,0,0,0,0
+"Hawaii","Possession (subtotal)",62,707,25,185,119,448
+"Hawaii","Possession-Marijuana",30,381,25,178,117,433
+"Hawaii","Possession-Synthetic narcotics",2,17,0,3,1,5
+"Hawaii","Possession-Other drugs",19,209,0,3,1,7
+"Hawaii","DUI",199,2557,2,15,13,28
+"Hawaii","Liquor",20,235,2,32,42,75
+"Hawaii","Disorderly conduct",67,284,2,26,25,69
+"Hawaii","All other non-traffic offenses",992,8212,48,460,716,1455
+"Hawaii","Runaways",0,0,143,777,1691,1463
+"Hawaii","Embezzlement",1,12,0,2,2,0
+"Hawaii","Possession-Opiates",11,100,0,1,0,3
+"Hawaii","Manslaughter by negligence",0,4,0,0,0,0
+"Hawaii","Curfew and Loitering",0,0,9,39,71,146
+"Hawaii","Forgery and counterfeiting",5,35,0,2,1,3
+"Hawaii","Sale-Opiates",0,3,0,0,0,0
+"Hawaii","Murder and manslaughter",0,5,0,0,1,1
+"Hawaii","Gambling (total)",0,10,0,0,0,0
+"Hawaii","All other gambling",0,7,0,0,0,0
+"Hawaii","Arson",0,10,0,0,1,10
+"Hawaii","Family offenses",2,14,0,0,0,0
+"Hawaii","Unclassified Arrest",0,0,0,0,0,0
+"Hawaii","Bookmaking (horse and sports)",0,3,0,0,0,0

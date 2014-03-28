@@ -1,0 +1,36 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"California","Murder and manslaughter",2,22,0,1,0,1
+"California","Rape",5,36,1,5,0,6
+"California","Robbery",61,161,21,56,16,61
+"California","Aggravated assault",229,1332,23,119,31,113
+"California","Burglary",115,510,55,209,59,205
+"California","Larceny",225,1006,103,508,326,286
+"California","Motor vehicle theft",32,223,13,39,6,46
+"California","Other assaults",165,839,47,234,90,195
+"California","Forgery and counterfeiting",20,90,0,5,1,4
+"California","Fraud",20,73,1,5,0,6
+"California","Embezzlement",11,37,1,2,2,1
+"California","Stolen property",47,378,11,34,10,36
+"California","Vandalism",16,201,16,264,24,260
+"California","Weapons",54,366,6,122,9,119
+"California","Sex offenses",23,206,2,21,1,22
+"California","Total Drug Violations",519,3467,21,281,33,273
+"California","Sale (subtotal)",119,604,1,42,4,39
+"California","Sale-Opiates",45,87,0,8,0,8
+"California","Sale-Marijuana",34,114,1,16,0,17
+"California","Sale-Other drugs",40,403,0,18,4,14
+"California","Possession (subtotal)",400,2863,20,239,29,234
+"California","Possession-Opiates",148,890,1,19,4,17
+"California","Possession-Marijuana",103,415,18,193,20,193
+"California","Possession-Other drugs",149,1558,1,27,5,24
+"California","DUI",24,546,0,6,1,5
+"California","Liquor",6,38,1,13,1,13
+"California","Drunkenness",133,1547,9,35,9,35
+"California","Disorderly conduct",3,62,30,151,84,97
+"California","All other non-traffic offenses",399,2189,41,472,146,368
+"California","Curfew and Loitering",0,0,2,47,17,32
+"California","Vagrancy",0,6,0,2,0,2
+"California","Family offenses",1,2,0,0,0,0
+"California","Arson",1,3,0,2,0,2
+"California","Prostitution",58,91,1,0,1,0
+"California","Manslaughter by negligence",0,2,0,0,0,0

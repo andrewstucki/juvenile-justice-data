@@ -1,0 +1,38 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Pennsylvania","Murder and manslaughter",45,3,8,0,1,7
+"Pennsylvania","Rape",21,9,8,0,0,8
+"Pennsylvania","Robbery",278,122,114,10,7,117
+"Pennsylvania","Aggravated assault",347,207,110,16,40,86
+"Pennsylvania","Burglary",214,229,85,17,12,90
+"Pennsylvania","Larceny",424,297,77,20,36,61
+"Pennsylvania","Motor vehicle theft",58,36,68,8,3,73
+"Pennsylvania","Other assaults",1050,668,318,68,134,252
+"Pennsylvania","Forgery and counterfeiting",167,124,9,1,2,8
+"Pennsylvania","Fraud",74,96,2,3,2,3
+"Pennsylvania","Embezzlement",3,9,0,0,0,0
+"Pennsylvania","Stolen property",324,90,117,10,10,117
+"Pennsylvania","Vandalism",49,91,31,17,3,45
+"Pennsylvania","Weapons",306,35,120,13,33,101
+"Pennsylvania","Prostitution",116,191,0,0,0,0
+"Pennsylvania","Sex offenses",65,101,25,4,2,27
+"Pennsylvania","Total Drug Violations",1637,1310,245,47,31,261
+"Pennsylvania","Sale (subtotal)",823,229,107,12,8,111
+"Pennsylvania","Sale-Opiates",676,180,93,6,8,91
+"Pennsylvania","Sale-Marijuana",136,37,14,5,0,19
+"Pennsylvania","Sale-Synthetic narcotics",9,11,0,1,0,1
+"Pennsylvania","Possession (subtotal)",814,1081,138,35,23,150
+"Pennsylvania","Possession-Opiates",397,815,41,10,8,43
+"Pennsylvania","Possession-Marijuana",406,216,97,25,15,107
+"Pennsylvania","Possession-Synthetic narcotics",10,45,0,0,0,0
+"Pennsylvania","Family offenses",18,9,0,0,0,0
+"Pennsylvania","DUI",191,603,1,1,0,2
+"Pennsylvania","Liquor",75,99,7,34,19,22
+"Pennsylvania","Drunkenness",110,274,0,7,1,6
+"Pennsylvania","Disorderly conduct",303,501,179,46,66,160
+"Pennsylvania","All other non-traffic offenses",691,748,89,56,36,110
+"Pennsylvania","Arson",3,6,3,2,0,5
+"Pennsylvania","Gambling (total)",11,1,0,0,0,0
+"Pennsylvania","All other gambling",11,1,0,0,0,0
+"Pennsylvania","Manslaughter by negligence",1,1,0,0,0,0
+"Pennsylvania","Sale-Other drugs",2,1,0,0,0,0
+"Pennsylvania","Possession-Other drugs",1,5,0,0,0,0

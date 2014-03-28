@@ -1,0 +1,37 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"New York","Murder and manslaughter",39,6,8,0,1,7
+"New York","Rape",30,10,2,1,0,3
+"New York","Robbery",240,79,98,15,12,101
+"New York","Aggravated assault",503,280,88,21,27,84
+"New York","Burglary",296,183,41,30,6,65
+"New York","Larceny",630,518,60,44,29,75
+"New York","Motor vehicle theft",279,91,63,19,14,68
+"New York","Other assaults",1023,861,137,57,77,119
+"New York","Arson",24,22,6,1,0,7
+"New York","Forgery and counterfeiting",46,25,1,2,0,3
+"New York","Fraud",295,147,21,5,10,16
+"New York","Stolen property",129,93,12,3,0,15
+"New York","Vandalism",372,266,44,32,19,57
+"New York","Weapons",225,61,38,9,5,42
+"New York","Prostitution",59,82,0,0,0,0
+"New York","Sex offenses",44,71,6,2,0,9
+"New York","Total Drug Violations",2789,1450,253,91,39,305
+"New York","Sale (subtotal)",51,36,11,3,0,14
+"New York","Sale-Marijuana",30,6,9,2,0,11
+"New York","Sale-Other drugs",21,29,2,1,0,3
+"New York","Possession (subtotal)",2738,1414,242,88,39,291
+"New York","Possession-Opiates",260,91,28,4,2,30
+"New York","Possession-Marijuana",1468,483,167,59,22,204
+"New York","Possession-Other drugs",1009,838,47,25,15,57
+"New York","DUI",70,96,0,0,0,0
+"New York","Disorderly conduct",116,93,32,8,3,37
+"New York","Vagrancy",31,17,0,0,0,0
+"New York","All other non-traffic offenses",910,714,80,30,26,84
+"New York","Family offenses",7,13,0,0,0,0
+"New York","Gambling (total)",9,0,1,0,0,1
+"New York","All other gambling",9,0,1,0,0,1
+"New York","Sale-Opiates",0,1,0,0,0,0
+"New York","Possession-Synthetic narcotics",1,2,0,0,0,0
+"New York","Manslaughter by negligence",0,1,0,0,0,0
+"New York","Liquor",0,0,0,0,0,0
+"New York","Embezzlement",0,1,0,0,0,0

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+ 
+<!-- Initial concept by Jim Schmetzer -->
+<!-- http://www.exubero.com/ant/dependencies.html -->
+<!-- Created by Richard Wall -->
+<!-- You shouldn't need to change anything in here -->
+<!-- All changes should be made in the applicable projects build.xml file -->
+<project name="build-common" default="compile">
+ <property name="build" value="../build"/>
+ <property name="dist" value="../lib/java"/>
+ <property name="dist.copyjarfiles" value=""/> <!-- Copies jar files to the dist/lib location -->
+ <property name="build.addclasspaths" value=""/> <!-- Add classpaths to the build process -->
+ <property name="build.addsourcepaths" value=""/> <!-- Add source paths to the build process -->
+ <property name="build.srcdir" value="${basedir};${build.addsourcepaths}"/>
+ <property name="build.addjarpaths" value="${dist}/lib"/> <!-- Add directories to the build path for looking up jar files -->
+ <property name="build.addexcludes" value=""/> <!-- Add excludes to the build process -->
+ <property name="jar.location" location="${dist}" /> <!-- Where to stick the resulting jar file. Normally you shouldn't touch this. -->
+ <property name="jar.filename" value="${ant.project.name}.jar" /> <!-- Name of the jar file -->
+ <property name="jar.main" value="${ant.project.name}" /> <!-- The main class to call when using it as a runnable jar -->
+ <property name="jar.builtby" value="Andrew Stucki"/>
+ <property name="jar.classpath" value="."/> <!-- Be aware that when loading as a runnable jar file any classpath information provided on the command line is ignored. -->
+ <property name="jar.mergejars" value="false"/> <!-- I recommend not using this on large projects as it can cause problems if different versions of public code is included in multiple jar files -->
+ 
+ <dirname property="dependencies.basedir" file="${ant.file.dependencies}/../"/>
+ 
+ <target name="init">
+ <echo message="${ant.project.name} - build-common.init"/>
+ <mkdir dir="${build}" />
+ <mkdir dir="${dist}" />
+ <mkdir dir="${dist}/lib" />
+ </target>
+ 
+ <target name="copyfiles">
+ <echo message="${ant.project.name} - build-common.copyfiles"/>
+ <copy todir="${dist}/lib" flatten="true">
+ <path>
+ <pathelement path="${dist.copyjarfiles}"/>
+ </path>
+ </copy>
+ </target>
+ 
+ <target name="clean">
+ <echo message="${ant.project.name} - build-common.clean"/>
+ <delete dir="${build}" />
+ <delete dir="${dist}" />
+ </target>
+ 
+<target name="compile" depends="init">
+ <echo message="${ant.project.name} - build-common.compile"/>
+ <javac srcdir="${build.srcdir}" destdir="${build}" failonerror="true" includeantruntime="false"
+ extdirs="${build.addjarpaths}" fork="yes" debug="true" debuglevel="lines"
+ classpath="${build.addclasspaths}" includes="**/*.java" excludes="${build.addexcludes}">
+ </javac>
+ </target>
+ 
+ <target name="dist-if-merge-jars" if="jar.mergejarfiles">
+ <echo message="${ant.project.name} - dist-if-merge-jars"/>
+ <jar jarfile="${jar.location}/${jar.filename}" basedir="${build}">
+ <zipgroupfileset dir="${dist}/lib" includes="*.jar"/>
+ <fileset excludes="**/*.jar" dir="${dist}/lib"/>
+ <manifest>
+ <attribute name="Built-By" value="${jar.builtby}"/>
+ <attribute name="Main-Class" value="${jar.main}" />
+ <attribute name="Class-Path" value="."/>
+ </manifest>
+ </jar>
+ <delete dir="${dist}/lib"/>
+ <delete dir="${build}"/>
+ </target>
+ 
+ <target name="dist-external-jars" unless="jar.mergejarfiles">
+ <echo message="${ant.project.name} - dist-external-jars"/>
+ <!-- create a property containing all .jar files, prefix lib/, and seperated with a space -->
+ <pathconvert property="jar.classpath" pathsep=" ">
+ <mapper>
+ <chainedmapper>
+ <flattenmapper />
+ <globmapper from="*" to="lib/*" />
+ </chainedmapper>
+ </mapper>
+ <path>
+ <fileset dir="${dist}/lib">
+ <include name="**/*.jar" />
+ </fileset>
+ </path>
+ </pathconvert>
+ 
+<jar jarfile="${jar.location}/${jar.filename}" basedir="${build}">
+ <fileset excludes="**/*.jar" dir="${dist}/lib" />
+ <manifest>
+ <attribute name="Built-By" value="${jar.builtby}"/>
+ <attribute name="Main-Class" value="${jar.main}" />
+ <attribute name="Class-Path" value="${jar.classpath}"/>
+ </manifest>
+ </jar>
+ </target>
+ 
+<target name="dist" depends="dependencies,compile,copyfiles">
+ <condition property="jar.mergejarfiles" >
+ <equals arg1="${jar.mergejars}" arg2="true"/>
+ </condition>
+ 
+<echo message="${ant.project.name} - build-common.dist"/>
+ <antcall target="dist-if-merge-jars"/>
+ <antcall target="dist-external-jars"/>
+ </target>
+ 
+<target name="depended-on" depends="dependencies,compile,copyfiles">
+ <echo message="${ant.project.name} - compiling everything needed for another project to link to this one."/>
+ </target>
+ 
+<target name="dependencies">
+ <echo message="${ant.project.name} - has no dependencies"/>
+ </target>
+</project>

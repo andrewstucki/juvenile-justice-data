@@ -1,0 +1,40 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Oklahoma","Murder and manslaughter",16,17,6,5,1,10
+"Oklahoma","Rape",13,22,1,2,0,3
+"Oklahoma","Robbery",59,73,30,13,6,38
+"Oklahoma","Aggravated assault",293,348,39,34,14,65
+"Oklahoma","Burglary",110,224,50,46,8,91
+"Oklahoma","Larceny",504,871,311,376,378,337
+"Oklahoma","Motor vehicle theft",47,112,6,15,7,15
+"Oklahoma","Other assaults",572,1023,83,78,75,93
+"Oklahoma","Arson",19,25,15,60,9,68
+"Oklahoma","Forgery and counterfeiting",59,128,0,1,1,0
+"Oklahoma","Fraud",62,169,8,3,6,5
+"Oklahoma","Embezzlement",18,31,0,3,1,2
+"Oklahoma","Stolen property",225,456,100,89,31,164
+"Oklahoma","Vandalism",84,104,31,70,11,95
+"Oklahoma","Weapons",256,265,37,41,8,72
+"Oklahoma","Prostitution",92,200,0,1,1,0
+"Oklahoma","Sex offenses",47,105,2,5,2,5
+"Oklahoma","Total Drug Violations",1476,1768,136,140,55,231
+"Oklahoma","Sale (subtotal)",44,35,5,4,2,8
+"Oklahoma","Sale-Opiates",13,9,1,1,2,1
+"Oklahoma","Sale-Synthetic narcotics",1,0,0,0,0,0
+"Oklahoma","Sale-Other drugs",12,4,1,1,0,2
+"Oklahoma","Possession (subtotal)",1432,1733,131,136,53,223
+"Oklahoma","Possession-Opiates",768,693,43,17,7,55
+"Oklahoma","Possession-Marijuana",587,645,87,107,43,158
+"Oklahoma","Possession-Synthetic narcotics",75,373,1,12,3,10
+"Oklahoma","Possession-Other drugs",2,22,0,0,0,0
+"Oklahoma","Family offenses",35,57,0,1,1,0
+"Oklahoma","DUI",300,1849,2,19,4,18
+"Oklahoma","Liquor",53,346,4,52,19,41
+"Oklahoma","Drunkenness",467,1311,3,29,5,29
+"Oklahoma","Disorderly conduct",81,71,236,136,136,244
+"Oklahoma","All other non-traffic offenses",1212,1250,122,177,92,224
+"Oklahoma","Curfew and Loitering",0,0,105,143,66,190
+"Oklahoma","Runaways",0,0,603,812,883,617
+"Oklahoma","Sale-Marijuana",18,22,3,2,0,5
+"Oklahoma","Gambling (total)",0,5,0,0,0,0
+"Oklahoma","All other gambling",0,5,0,0,0,0
+"Oklahoma","Manslaughter by negligence",0,1,0,0,0,0

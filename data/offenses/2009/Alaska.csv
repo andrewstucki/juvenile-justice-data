@@ -1,0 +1,40 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Alaska","Rape",10,20,0,4,0,7
+"Alaska","Robbery",48,128,13,13,11,26
+"Alaska","Aggravated assault",189,819,23,87,61,121
+"Alaska","Burglary",16,194,17,46,9,76
+"Alaska","Larceny",208,1488,113,579,324,585
+"Alaska","Motor vehicle theft",22,112,8,32,10,48
+"Alaska","Other assaults",376,2116,54,177,122,243
+"Alaska","Forgery and counterfeiting",14,81,1,2,1,2
+"Alaska","Fraud",37,176,3,7,2,9
+"Alaska","Embezzlement",17,47,1,8,6,4
+"Alaska","Vandalism",35,365,14,72,25,114
+"Alaska","Weapons",27,240,4,24,5,34
+"Alaska","Prostitution",23,119,1,1,2,0
+"Alaska","Sex offenses",9,77,3,17,6,33
+"Alaska","Total Drug Violations",163,1227,21,229,74,240
+"Alaska","Sale (subtotal)",62,251,3,34,3,44
+"Alaska","Sale-Opiates",48,103,0,5,1,7
+"Alaska","Sale-Marijuana",12,83,3,21,2,28
+"Alaska","Sale-Synthetic narcotics",0,24,0,0,0,0
+"Alaska","Sale-Other drugs",2,41,0,8,0,9
+"Alaska","Possession (subtotal)",101,976,18,195,71,196
+"Alaska","Possession-Opiates",32,161,2,7,2,11
+"Alaska","Possession-Marijuana",66,732,16,169,62,170
+"Alaska","Possession-Other drugs",3,47,0,17,7,12
+"Alaska","Family offenses",17,137,0,2,0,2
+"Alaska","DUI",315,3907,1,49,25,42
+"Alaska","Liquor",91,870,18,272,268,287
+"Alaska","Disorderly conduct",53,442,6,30,16,41
+"Alaska","All other non-traffic offenses",1508,8818,75,405,236,491
+"Alaska","Murder and manslaughter",5,9,0,0,0,0
+"Alaska","Arson",0,6,1,13,4,27
+"Alaska","Stolen property",5,15,1,2,0,7
+"Alaska","Possession-Synthetic narcotics",0,36,0,2,0,3
+"Alaska","Suspicion",1,1,0,0,0,0
+"Alaska","Manslaughter by negligence",0,1,0,2,0,2
+"Alaska","Drunkenness",6,37,0,0,5,3
+"Alaska","Runaways",0,0,10,66,83,83
+"Alaska","Unclassified Arrest",0,0,0,0,0,0
+"Alaska","Curfew and Loitering",0,0,0,3,2,14

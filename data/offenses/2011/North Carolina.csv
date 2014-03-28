@@ -1,0 +1,41 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"North Carolina","Rape",255,251,30,21,1,50
+"North Carolina","Robbery",2307,889,558,66,31,600
+"North Carolina","Aggravated assault",6804,6473,665,389,255,828
+"North Carolina","Burglary",6362,7702,1683,1178,254,2661
+"North Carolina","Larceny",18681,25419,4065,3213,2901,4522
+"North Carolina","Other assaults",23141,28750,4191,2835,2408,4759
+"North Carolina","Forgery and counterfeiting",1115,1152,20,27,10,37
+"North Carolina","Fraud",7509,10167,160,202,135,230
+"North Carolina","Vandalism",3120,3674,825,890,271,1480
+"North Carolina","Weapons",3383,2376,733,709,190,1304
+"North Carolina","Sex offenses",608,910,69,83,11,142
+"North Carolina","Total Drug Violations",19665,18808,1293,2087,532,2918
+"North Carolina","Possession (subtotal)",15166,16215,1130,1933,496,2636
+"North Carolina","Possession-Opiates",3491,2626,54,46,10,90
+"North Carolina","Possession-Marijuana",10196,10822,982,1614,389,2268
+"North Carolina","Possession-Synthetic narcotics",234,871,9,56,27,40
+"North Carolina","Possession-Other drugs",1245,1898,86,218,70,240
+"North Carolina","Family offenses",3725,3573,32,53,32,54
+"North Carolina","DUI",12822,38607,65,416,115,383
+"North Carolina","Disorderly conduct",6151,5992,2469,1137,1304,2423
+"North Carolina","All other non-traffic offenses",70730,68361,3148,2849,1456,4678
+"North Carolina","Motor vehicle theft",571,671,103,65,20,148
+"North Carolina","Stolen property",2374,1812,366,156,89,442
+"North Carolina","Sale (subtotal)",4499,2593,163,154,37,281
+"North Carolina","Sale-Opiates",2446,993,37,13,5,45
+"North Carolina","Embezzlement",647,792,10,12,10,12
+"North Carolina","Liquor",5905,20148,372,2608,1118,1935
+"North Carolina","Prostitution",407,549,15,2,9,8
+"North Carolina","Sale-Marijuana",1913,1024,114,97,20,192
+"North Carolina","Sale-Other drugs",85,332,11,33,6,38
+"North Carolina","Murder and manslaughter",352,162,30,6,4,33
+"North Carolina","Manslaughter by negligence",16,43,0,0,0,0
+"North Carolina","Arson",121,143,59,80,18,123
+"North Carolina","Unclassified Arrest",0,0,0,0,0,0
+"North Carolina","Gambling (total)",112,279,1,0,0,1
+"North Carolina","Bookmaking (horse and sports)",100,237,0,0,0,0
+"North Carolina","Sale-Synthetic narcotics",56,244,2,11,6,7
+"North Carolina","Runaways",0,0,556,398,471,511
+"North Carolina","All other gambling",12,42,1,0,0,1
+"North Carolina","Vagrancy",251,162,0,0,0,0

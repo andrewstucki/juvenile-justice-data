@@ -1,0 +1,41 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Georgia","Murder and manslaughter",54,3,6,0,0,6
+"Georgia","Rape",43,5,5,0,0,5
+"Georgia","Robbery",590,35,183,1,13,171
+"Georgia","Aggravated assault",1637,128,212,5,64,153
+"Georgia","Burglary",761,70,299,5,8,296
+"Georgia","Larceny",3613,681,560,44,277,328
+"Georgia","Motor vehicle theft",427,32,219,0,12,208
+"Georgia","Other assaults",2881,384,418,6,143,281
+"Georgia","Arson",20,0,3,0,0,3
+"Georgia","Forgery and counterfeiting",370,48,2,0,1,1
+"Georgia","Fraud",826,145,13,0,2,11
+"Georgia","Embezzlement",80,12,3,0,0,3
+"Georgia","Stolen property",1013,85,123,1,5,119
+"Georgia","Vandalism",558,116,141,3,19,125
+"Georgia","Weapons",1169,110,122,3,23,102
+"Georgia","Prostitution",1039,221,21,0,16,5
+"Georgia","Sex offenses",870,238,22,2,3,21
+"Georgia","Total Drug Violations",7106,708,452,17,35,434
+"Georgia","Sale (subtotal)",240,53,13,0,0,13
+"Georgia","Sale-Opiates",140,20,9,0,0,9
+"Georgia","Sale-Marijuana",49,12,4,0,0,4
+"Georgia","Sale-Other drugs",48,17,0,0,0,0
+"Georgia","Possession (subtotal)",6866,655,439,17,35,421
+"Georgia","Possession-Opiates",2906,313,111,0,12,99
+"Georgia","Possession-Marijuana",3913,285,326,17,23,320
+"Georgia","Possession-Other drugs",33,39,1,0,0,1
+"Georgia","Gambling (total)",152,2,19,0,0,19
+"Georgia","All other gambling",152,2,19,0,0,19
+"Georgia","Family offenses",40,4,0,0,0,0
+"Georgia","DUI",969,1410,3,2,2,4
+"Georgia","Liquor",3344,907,17,17,6,28
+"Georgia","Drunkenness",86,45,0,0,0,0
+"Georgia","Disorderly conduct",4322,750,325,5,127,203
+"Georgia","Vagrancy",415,84,3,0,0,3
+"Georgia","All other non-traffic offenses",7832,1006,306,5,39,274
+"Georgia","Curfew and Loitering",0,0,19,0,6,13
+"Georgia","Possession-Synthetic narcotics",14,18,1,0,0,1
+"Georgia","Runaways",0,0,6,0,3,3
+"Georgia","Manslaughter by negligence",8,0,1,0,1,0
+"Georgia","Sale-Synthetic narcotics",3,4,0,0,0,0

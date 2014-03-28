@@ -1,0 +1,39 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Tennessee","Murder and manslaughter",42,9,9,0,0,9
+"Tennessee","Rape",8,14,2,0,0,2
+"Tennessee","Robbery",180,108,57,9,6,60
+"Tennessee","Aggravated assault",990,735,119,46,55,111
+"Tennessee","Burglary",152,179,54,32,8,79
+"Tennessee","Larceny",1082,1321,202,82,143,145
+"Tennessee","Motor vehicle theft",31,46,11,3,5,9
+"Tennessee","Other assaults",1854,1623,380,161,205,338
+"Tennessee","Arson",6,8,0,0,0,0
+"Tennessee","Forgery and counterfeiting",118,65,1,0,0,1
+"Tennessee","Fraud",214,124,12,7,8,11
+"Tennessee","Embezzlement",23,32,0,1,0,1
+"Tennessee","Stolen property",3,1,1,0,0,1
+"Tennessee","Vandalism",180,161,41,30,22,49
+"Tennessee","Weapons",164,103,58,16,8,66
+"Tennessee","Prostitution",219,505,0,1,0,1
+"Tennessee","Sex offenses",22,30,7,5,0,12
+"Tennessee","Total Drug Violations",3072,1767,171,101,37,237
+"Tennessee","Sale (subtotal)",516,236,24,9,3,30
+"Tennessee","Sale-Opiates",342,93,10,3,1,12
+"Tennessee","Sale-Marijuana",122,88,12,5,2,15
+"Tennessee","Sale-Synthetic narcotics",15,6,0,0,0,0
+"Tennessee","Sale-Other drugs",37,49,2,1,0,3
+"Tennessee","Possession (subtotal)",2532,1515,144,92,34,204
+"Tennessee","Possession-Opiates",778,300,19,5,0,24
+"Tennessee","Possession-Marijuana",1506,848,108,74,29,155
+"Tennessee","Possession-Synthetic narcotics",15,47,2,2,1,3
+"Tennessee","Possession-Other drugs",233,320,15,11,4,22
+"Tennessee","Gambling (total)",70,8,6,0,0,6
+"Tennessee","Family offenses",5,3,0,0,0,0
+"Tennessee","DUI",889,3369,3,10,2,11
+"Tennessee","Liquor",45,259,4,15,2,17
+"Tennessee","Drunkenness",1087,2436,2,1,0,3
+"Tennessee","Disorderly conduct",533,513,307,84,143,250
+"Tennessee","Vagrancy",12,13,0,0,0,0
+"Tennessee","All other non-traffic offenses",6248,4930,362,148,118,394
+"Tennessee","Curfew and Loitering",0,0,198,163,122,242
+"Tennessee","Runaways",0,0,275,168,241,204

@@ -1,0 +1,38 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Missouri","Murder and manslaughter",75,15,8,1,0,9
+"Missouri","Rape",77,27,10,7,1,16
+"Missouri","Robbery",342,68,127,5,22,110
+"Missouri","Aggravated assault",631,298,62,22,23,61
+"Missouri","Burglary",363,140,160,38,10,188
+"Missouri","Larceny",1395,962,387,237,363,265
+"Missouri","Motor vehicle theft",775,489,310,64,68,307
+"Missouri","Other assaults",3749,1870,425,98,203,323
+"Missouri","Arson",17,11,2,7,0,9
+"Missouri","Forgery and counterfeiting",129,76,1,0,0,1
+"Missouri","Fraud",33,40,2,0,1,1
+"Missouri","Stolen property",47,40,3,2,0,5
+"Missouri","Vandalism",615,294,57,45,20,82
+"Missouri","Weapons",373,144,70,11,8,73
+"Missouri","Prostitution",106,220,1,1,0,2
+"Missouri","Sex offenses",141,223,25,11,0,36
+"Missouri","Total Drug Violations",3319,1815,175,108,45,238
+"Missouri","Sale (subtotal)",505,140,21,4,2,23
+"Missouri","Sale-Marijuana",9,3,1,0,0,1
+"Missouri","Sale-Other drugs",496,138,12,3,1,14
+"Missouri","Possession (subtotal)",2814,1675,154,104,43,215
+"Missouri","Possession-Opiates",7,3,24,0,2,22
+"Missouri","Possession-Marijuana",910,493,93,69,28,134
+"Missouri","Possession-Other drugs",1900,1180,37,35,13,59
+"Missouri","Gambling (total)",1,0,0,0,0,0
+"Missouri","All other gambling",1,0,0,0,0,0
+"Missouri","Family offenses",325,224,3,2,4,3
+"Missouri","DUI",493,1309,3,22,4,21
+"Missouri","Liquor",296,267,10,35,14,31
+"Missouri","Disorderly conduct",873,640,84,23,52,55
+"Missouri","Vagrancy",39,12,6,1,0,7
+"Missouri","All other non-traffic offenses",6028,6718,140,54,40,154
+"Missouri","Curfew and Loitering",0,0,11,20,7,24
+"Missouri","Manslaughter by negligence",1,1,0,1,0,1
+"Missouri","Sale-Opiates",0,1,8,1,1,8
+"Missouri","Runaways",0,0,4,1,2,3
+"Missouri","Embezzlement",0,1,1,1,0,2

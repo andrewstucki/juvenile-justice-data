@@ -1,0 +1,35 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Maryland","Murder and manslaughter",106,11,9,0,1,8
+"Maryland","Rape",43,1,10,0,0,10
+"Maryland","Robbery",337,42,413,9,43,379
+"Maryland","Aggravated assault",491,61,296,8,62,243
+"Maryland","Burglary",701,216,215,18,20,213
+"Maryland","Larceny",386,126,274,12,118,168
+"Maryland","Motor vehicle theft",292,46,258,8,28,238
+"Maryland","Other assaults",6268,1024,469,20,191,298
+"Maryland","Arson",26,14,8,0,3,5
+"Maryland","Forgery and counterfeiting",57,16,0,0,0,0
+"Maryland","Fraud",53,7,0,0,0,0
+"Maryland","Vandalism",431,107,91,6,18,79
+"Maryland","Weapons",957,98,204,7,22,189
+"Maryland","Prostitution",515,314,7,1,5,3
+"Maryland","Sex offenses",153,60,40,2,3,39
+"Maryland","Total Drug Violations",15912,2229,1808,27,117,1720
+"Maryland","Sale (subtotal)",3125,204,910,7,41,877
+"Maryland","Sale-Opiates",3112,203,770,4,33,742
+"Maryland","Sale-Marijuana",6,0,137,3,8,132
+"Maryland","Possession (subtotal)",12787,2025,898,20,76,843
+"Maryland","Possession-Opiates",7065,1633,274,5,25,255
+"Maryland","Possession-Marijuana",5717,389,618,14,49,583
+"Maryland","Possession-Other drugs",5,3,6,1,2,5
+"Maryland","Gambling (total)",125,0,21,0,1,20
+"Maryland","All other gambling",125,0,21,0,1,20
+"Maryland","Family offenses",96,13,0,0,0,0
+"Maryland","DUI",110,68,0,0,0,0
+"Maryland","Liquor",136,55,11,0,2,9
+"Maryland","Disorderly conduct",562,138,321,6,107,220
+"Maryland","Vagrancy",49,26,0,0,0,0
+"Maryland","All other non-traffic offenses",21692,4440,687,13,89,611
+"Maryland","Curfew and Loitering",0,0,238,5,35,208
+"Maryland","Sale-Synthetic narcotics",7,1,3,0,0,3
+"Maryland","Manslaughter by negligence",1,0,0,0,0,0

@@ -1,0 +1,39 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"California","Murder and manslaughter",61,156,2,13,4,11
+"California","Manslaughter by negligence",2,9,0,0,0,0
+"California","Rape",66,158,5,19,0,24
+"California","Robbery",1174,1470,347,335,81,601
+"California","Aggravated assault",3055,7670,212,609,180,641
+"California","Burglary",929,2009,247,464,116,598
+"California","Larceny",1838,5449,289,1081,666,711
+"California","Motor vehicle theft",458,927,62,156,39,179
+"California","Other assaults",1311,3588,263,678,331,614
+"California","Arson",12,33,5,12,6,11
+"California","Forgery and counterfeiting",247,694,1,3,2,2
+"California","Fraud",203,441,2,16,9,9
+"California","Embezzlement",48,67,0,0,0,0
+"California","Stolen property",240,907,26,74,13,87
+"California","Vandalism",350,1579,91,708,51,748
+"California","Weapons",1067,2197,138,465,51,552
+"California","Prostitution",1874,2129,66,12,75,3
+"California","Sex offenses",312,996,54,169,18,205
+"California","Total Drug Violations",5562,13628,66,645,130,584
+"California","Sale (subtotal)",1506,2863,33,212,31,216
+"California","Sale-Opiates",813,931,7,24,8,23
+"California","Sale-Marijuana",593,746,24,148,13,161
+"California","Sale-Other drugs",100,1186,2,40,10,32
+"California","Possession (subtotal)",4056,10765,33,433,99,368
+"California","Possession-Opiates",2528,4067,13,103,23,93
+"California","Possession-Marijuana",206,632,10,101,16,95
+"California","Possession-Other drugs",1322,6066,10,229,60,180
+"California","Family offenses",6,6,0,0,0,0
+"California","DUI",1308,9310,2,11,2,11
+"California","Liquor",429,3061,18,236,62,192
+"California","Drunkenness",74,423,2,3,2,3
+"California","Disorderly conduct",76,409,27,107,41,93
+"California","Vagrancy",64,134,2,2,0,4
+"California","All other non-traffic offenses",13657,34296,495,4159,872,3782
+"California","Gambling (total)",30,330,0,6,1,5
+"California","All other gambling",30,330,0,6,1,5
+"California","Runaways",0,0,15,15,21,9
+"California","Curfew and Loitering",0,0,298,2687,751,2240

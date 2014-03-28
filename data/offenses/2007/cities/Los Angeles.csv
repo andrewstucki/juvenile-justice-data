@@ -1,0 +1,40 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"California","Murder and manslaughter",122,286,12,35,4,43
+"California","Rape",65,187,9,21,0,30
+"California","Robbery",1233,1718,676,605,209,1072
+"California","Aggravated assault",3470,8670,327,844,257,916
+"California","Burglary",846,2132,321,608,134,798
+"California","Larceny",1615,4539,501,1253,741,1021
+"California","Motor vehicle theft",866,2083,227,531,120,641
+"California","Other assaults",1373,3515,373,972,494,853
+"California","Arson",32,58,10,25,8,27
+"California","Forgery and counterfeiting",290,823,1,27,9,19
+"California","Fraud",199,450,8,15,10,14
+"California","Embezzlement",57,82,3,6,5,4
+"California","Stolen property",235,884,46,99,19,126
+"California","Vandalism",353,1791,145,1528,119,1560
+"California","Weapons",1300,2160,224,820,69,979
+"California","Prostitution",1488,2235,108,42,133,17
+"California","Sex offenses",941,1434,137,214,73,278
+"California","Total Drug Violations",15476,21222,585,1802,329,2063
+"California","Sale (subtotal)",4455,4148,232,273,61,446
+"California","Sale-Opiates",3002,2037,148,66,40,174
+"California","Sale-Marijuana",1312,1048,82,173,18,239
+"California","Sale-Other drugs",141,1063,2,34,3,33
+"California","Possession (subtotal)",11021,17074,353,1529,268,1617
+"California","Possession-Opiates",6067,6501,42,132,30,145
+"California","Possession-Marijuana",2165,3446,293,1161,165,1291
+"California","Possession-Other drugs",2789,7127,18,236,73,181
+"California","Family offenses",3,7,0,1,1,0
+"California","DUI",1142,9385,2,28,10,20
+"California","Liquor",594,3483,8,190,38,160
+"California","Drunkenness",55,250,0,8,3,5
+"California","Disorderly conduct",57,154,39,74,36,77
+"California","Vagrancy",36,42,3,9,2,10
+"California","All other non-traffic offenses",11817,30725,567,3208,489,3294
+"California","Gambling (total)",31,424,9,7,5,11
+"California","All other gambling",30,424,9,7,5,11
+"California","Manslaughter by negligence",5,15,0,0,0,0
+"California","Bookmaking (horse and sports)",1,0,0,0,0,0
+"California","Runaways",0,0,16,42,40,18
+"California","Curfew and Loitering",0,0,2677,10375,4192,8888

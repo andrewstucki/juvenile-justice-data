@@ -1,0 +1,44 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Georgia","Murder and manslaughter",244,92,42,26,12,57
+"Georgia","Rape",242,102,54,19,3,70
+"Georgia","Robbery",1784,464,555,73,62,570
+"Georgia","Aggravated assault",6509,2898,1046,255,392,914
+"Georgia","Burglary",2811,2185,1478,645,118,2007
+"Georgia","Larceny",12772,10567,4185,2198,2348,4083
+"Georgia","Motor vehicle theft",1298,875,796,191,188,800
+"Georgia","Other assaults",14187,8436,4764,1446,2039,4191
+"Georgia","Forgery and counterfeiting",2795,2766,82,91,58,116
+"Georgia","Fraud",7528,4360,348,82,137,296
+"Georgia","Embezzlement",227,130,6,2,3,6
+"Georgia","Stolen property",2553,1411,633,132,113,653
+"Georgia","Vandalism",1423,801,678,339,155,867
+"Georgia","Weapons",3699,1262,963,418,230,1167
+"Georgia","Prostitution",1378,458,25,13,20,18
+"Georgia","Sex offenses",2463,1255,385,220,99,506
+"Georgia","Total Drug Violations",25315,17073,2478,1659,555,3612
+"Georgia","Sale (subtotal)",6181,4089,654,348,148,865
+"Georgia","Sale-Opiates",2622,636,126,26,20,136
+"Georgia","Sale-Marijuana",2067,1123,427,189,73,548
+"Georgia","Sale-Other drugs",1284,1556,85,100,35,151
+"Georgia","Possession (subtotal)",19117,12945,1842,1324,409,2776
+"Georgia","Possession-Opiates",7911,2403,364,91,36,419
+"Georgia","Possession-Marijuana",10636,6559,1438,1007,298,2165
+"Georgia","Possession-Synthetic narcotics",213,2411,12,150,53,109
+"Georgia","Possession-Other drugs",335,1516,29,76,22,84
+"Georgia","Gambling (total)",163,67,35,5,2,38
+"Georgia","All other gambling",161,60,34,4,2,36
+"Georgia","Family offenses",1690,2101,65,118,58,126
+"Georgia","DUI",7150,19790,54,295,38,314
+"Georgia","Liquor",7187,5204,227,801,303,745
+"Georgia","Drunkenness",2103,2365,20,61,14,67
+"Georgia","Disorderly conduct",15179,7183,4689,1287,2372,3619
+"Georgia","Vagrancy",1543,974,84,64,37,112
+"Georgia","All other non-traffic offenses",49873,39735,6095,3783,2832,7078
+"Georgia","Curfew and Loitering",0,0,774,248,287,740
+"Georgia","Runaways",0,0,1641,1528,1464,1724
+"Georgia","Arson",300,392,114,160,78,201
+"Georgia","Sale-Synthetic narcotics",134,767,15,35,20,31
+"Georgia","",0,0,0,0,0,0
+"Georgia","Suspicion",348,693,92,16,33,75
+"Georgia","Manslaughter by negligence",19,40,3,3,1,5
+"Georgia","Number and lottery",2,7,1,1,0,2

@@ -1,0 +1,38 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Arizona","Murder and manslaughter",2,8,0,0,0,0
+"Arizona","Rape",3,23,0,5,0,5
+"Arizona","Robbery",28,74,1,11,2,10
+"Arizona","Aggravated assault",49,335,8,63,10,63
+"Arizona","Burglary",11,145,5,57,3,62
+"Arizona","Larceny",158,1791,56,690,296,477
+"Arizona","Motor vehicle theft",4,135,8,46,11,44
+"Arizona","Other assaults",171,1413,31,243,83,205
+"Arizona","Arson",0,2,0,5,0,5
+"Arizona","Forgery and counterfeiting",23,324,0,7,3,4
+"Arizona","Fraud",17,222,0,14,4,10
+"Arizona","Embezzlement",4,76,1,17,4,14
+"Arizona","Stolen property",14,231,3,40,9,37
+"Arizona","Vandalism",71,578,10,158,28,150
+"Arizona","Weapons",28,185,2,39,5,40
+"Arizona","Prostitution",23,87,0,1,1,0
+"Arizona","Sex offenses",4,115,0,27,0,28
+"Arizona","Total Drug Violations",170,1630,8,291,59,263
+"Arizona","Sale (subtotal)",15,61,0,13,6,7
+"Arizona","Sale-Opiates",11,21,0,8,4,4
+"Arizona","Sale-Synthetic narcotics",0,29,0,3,2,1
+"Arizona","Possession (subtotal)",155,1569,8,278,53,256
+"Arizona","Possession-Opiates",60,375,1,45,10,40
+"Arizona","Possession-Marijuana",82,710,7,216,39,202
+"Arizona","Possession-Synthetic narcotics",13,474,0,11,3,9
+"Arizona","Family offenses",6,55,0,0,0,0
+"Arizona","DUI",88,2630,0,51,12,42
+"Arizona","Liquor",56,986,7,338,109,259
+"Arizona","Disorderly conduct",75,564,18,61,36,46
+"Arizona","All other non-traffic offenses",724,6383,11,248,62,209
+"Arizona","Curfew and Loitering",0,0,30,230,83,180
+"Arizona","Runaways",0,0,35,308,220,139
+"Arizona","Possession-Other drugs",0,10,0,6,1,5
+"Arizona","Sale-Marijuana",4,11,0,1,0,1
+"Arizona","Vagrancy",21,47,0,0,0,0
+"Arizona","Manslaughter by negligence",0,8,1,0,0,1
+"Arizona","Sale-Other drugs",0,0,0,1,0,1

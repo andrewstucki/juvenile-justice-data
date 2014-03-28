@@ -1,0 +1,39 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"California","Rape",13,55,1,2,0,4
+"California","Robbery",145,270,84,80,25,142
+"California","Aggravated assault",895,2878,116,281,78,344
+"California","Burglary",311,1250,115,370,93,428
+"California","Larceny",381,1577,190,527,259,496
+"California","Motor vehicle theft",141,731,50,161,49,178
+"California","Other assaults",902,2624,264,625,317,614
+"California","Arson",5,30,2,17,2,18
+"California","Forgery and counterfeiting",63,256,1,10,3,8
+"California","Fraud",124,434,6,22,8,20
+"California","Embezzlement",2,7,0,0,0,0
+"California","Stolen property",76,457,17,70,17,73
+"California","Vandalism",154,672,73,411,72,428
+"California","Weapons",178,504,62,281,23,343
+"California","Sex offenses",105,330,26,42,5,65
+"California","Total Drug Violations",4425,11047,129,699,189,678
+"California","Sale (subtotal)",887,1304,13,77,17,81
+"California","Sale-Marijuana",152,310,8,52,11,57
+"California","Sale-Other drugs",90,707,1,16,3,14
+"California","Possession (subtotal)",3538,9743,116,622,172,597
+"California","Possession-Opiates",1398,3226,9,49,20,39
+"California","Possession-Marijuana",527,1444,97,453,107,467
+"California","Possession-Other drugs",1613,5073,10,120,45,91
+"California","Family offenses",0,5,0,2,1,1
+"California","DUI",383,3740,0,37,11,27
+"California","Liquor",68,1187,12,205,86,134
+"California","Drunkenness",432,3109,13,165,51,135
+"California","Disorderly conduct",28,122,73,152,88,146
+"California","Vagrancy",822,1998,2,14,6,10
+"California","All other non-traffic offenses",1645,6103,436,2073,852,1763
+"California","Curfew and Loitering",0,0,151,762,313,640
+"California","Murder and manslaughter",15,38,2,3,0,5
+"California","Prostitution",363,431,22,20,38,6
+"California","Sale-Opiates",645,287,4,9,3,10
+"California","Runaways",0,0,37,98,79,58
+"California","Manslaughter by negligence",0,5,0,1,0,1
+"California","Gambling (total)",0,1,1,2,0,3
+"California","All other gambling",0,1,1,2,0,3

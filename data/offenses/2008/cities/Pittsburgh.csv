@@ -1,0 +1,39 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Pennsylvania","Murder and manslaughter",32,3,5,0,0,5
+"Pennsylvania","Rape",21,7,4,0,0,4
+"Pennsylvania","Robbery",290,99,160,15,20,155
+"Pennsylvania","Aggravated assault",436,239,84,16,21,79
+"Pennsylvania","Burglary",215,154,70,9,5,75
+"Pennsylvania","Larceny",396,371,86,30,31,85
+"Pennsylvania","Motor vehicle theft",66,63,25,6,2,29
+"Pennsylvania","Other assaults",1356,827,450,58,189,321
+"Pennsylvania","Arson",6,18,11,7,2,17
+"Pennsylvania","Forgery and counterfeiting",155,132,14,6,2,18
+"Pennsylvania","Fraud",89,90,1,0,0,1
+"Pennsylvania","Embezzlement",6,11,0,0,0,0
+"Pennsylvania","Stolen property",229,75,48,7,7,48
+"Pennsylvania","Vandalism",101,169,81,35,6,111
+"Pennsylvania","Weapons",255,52,102,23,35,92
+"Pennsylvania","Prostitution",222,216,2,0,0,2
+"Pennsylvania","Sex offenses",79,65,17,2,1,18
+"Pennsylvania","Total Drug Violations",2178,1381,223,44,34,233
+"Pennsylvania","Sale (subtotal)",840,287,102,15,12,105
+"Pennsylvania","Sale-Opiates",651,192,90,7,9,88
+"Pennsylvania","Sale-Marijuana",163,57,12,8,3,17
+"Pennsylvania","Sale-Synthetic narcotics",26,36,0,0,0,0
+"Pennsylvania","Sale-Other drugs",0,2,0,0,0,0
+"Pennsylvania","Possession (subtotal)",1338,1094,121,29,22,128
+"Pennsylvania","Possession-Opiates",376,646,16,3,4,15
+"Pennsylvania","Possession-Marijuana",935,350,104,26,17,113
+"Pennsylvania","Possession-Synthetic narcotics",26,97,1,0,1,0
+"Pennsylvania","Family offenses",22,18,0,0,0,0
+"Pennsylvania","DUI",309,818,1,6,3,4
+"Pennsylvania","Liquor",145,202,4,24,6,22
+"Pennsylvania","Drunkenness",228,431,1,11,5,7
+"Pennsylvania","Disorderly conduct",549,752,151,39,61,129
+"Pennsylvania","All other non-traffic offenses",1129,898,97,45,23,120
+"Pennsylvania","Manslaughter by negligence",1,2,0,0,0,0
+"Pennsylvania","Possession-Other drugs",1,1,0,0,0,0
+"Pennsylvania","Vagrancy",1,0,0,0,0,0
+"Pennsylvania","Gambling (total)",5,4,0,0,0,0
+"Pennsylvania","All other gambling",5,4,0,0,0,0

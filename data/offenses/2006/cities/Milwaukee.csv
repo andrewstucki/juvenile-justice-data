@@ -1,0 +1,40 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Wisconsin","Murder and manslaughter",70,17,15,4,1,18
+"Wisconsin","Rape",92,46,25,6,1,30
+"Wisconsin","Robbery",355,116,264,38,10,294
+"Wisconsin","Aggravated assault",668,207,132,26,60,104
+"Wisconsin","Burglary",257,92,193,44,21,218
+"Wisconsin","Larceny",1876,789,785,225,346,677
+"Wisconsin","Motor vehicle theft",295,66,420,61,39,451
+"Wisconsin","Other assaults",2690,1063,971,142,417,704
+"Wisconsin","Arson",16,6,13,2,3,12
+"Wisconsin","Forgery and counterfeiting",102,31,3,0,1,2
+"Wisconsin","Fraud",61,58,5,6,8,3
+"Wisconsin","Stolen property",23,5,7,1,2,6
+"Wisconsin","Vandalism",820,353,396,122,128,396
+"Wisconsin","Weapons",839,196,275,83,60,305
+"Wisconsin","Prostitution",217,266,17,2,15,4
+"Wisconsin","Sex offenses",108,70,91,22,9,104
+"Wisconsin","Total Drug Violations",2878,862,767,213,85,902
+"Wisconsin","Sale (subtotal)",889,153,106,15,6,116
+"Wisconsin","Sale-Opiates",655,83,71,5,5,71
+"Wisconsin","Sale-Marijuana",197,49,27,8,0,35
+"Wisconsin","Sale-Other drugs",34,17,8,2,1,10
+"Wisconsin","Possession (subtotal)",1962,702,659,198,79,784
+"Wisconsin","Possession-Opiates",734,246,88,16,7,97
+"Wisconsin","Possession-Marijuana",1123,405,550,173,68,661
+"Wisconsin","Possession-Synthetic narcotics",10,11,2,3,1,4
+"Wisconsin","Possession-Other drugs",95,40,19,6,3,22
+"Wisconsin","Gambling (total)",79,1,33,1,1,33
+"Wisconsin","Family offenses",135,68,8,2,4,6
+"Wisconsin","DUI",367,1087,1,9,1,9
+"Wisconsin","Liquor",975,1636,63,124,56,136
+"Wisconsin","Disorderly conduct",4631,3010,3490,543,1606,2441
+"Wisconsin","Vagrancy",2257,902,0,0,0,0
+"Wisconsin","All other non-traffic offenses",5393,3215,2224,680,690,2271
+"Wisconsin","Curfew and Loitering",0,0,2300,535,710,2162
+"Wisconsin","Runaways",0,0,629,187,442,387
+"Wisconsin","Manslaughter by negligence",1,0,2,0,1,1
+"Wisconsin","Sale-Synthetic narcotics",3,4,0,0,0,0
+"Wisconsin","Drunkenness",0,1,0,0,0,0
+"Wisconsin","Embezzlement",0,1,0,0,0,0

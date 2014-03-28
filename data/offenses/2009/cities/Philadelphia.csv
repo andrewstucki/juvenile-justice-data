@@ -1,0 +1,43 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Pennsylvania","Unclassified Arrest",0,0,0,0,0,0
+"Pennsylvania","Murder and manslaughter",165,48,17,1,1,17
+"Pennsylvania","Manslaughter by negligence",3,5,0,0,0,0
+"Pennsylvania","Rape",261,93,60,7,0,67
+"Pennsylvania","Robbery",1802,607,770,100,87,793
+"Pennsylvania","Aggravated assault",2962,1072,467,114,195,389
+"Pennsylvania","Burglary",843,443,177,46,21,206
+"Pennsylvania","Larceny",2892,1878,729,143,368,514
+"Pennsylvania","Motor vehicle theft",618,323,163,53,16,212
+"Pennsylvania","Other assaults",2856,1166,929,161,355,740
+"Pennsylvania","Arson",42,18,16,14,8,28
+"Pennsylvania","Forgery and counterfeiting",206,37,4,1,2,3
+"Pennsylvania","Fraud",531,198,6,2,2,6
+"Pennsylvania","Embezzlement",115,77,4,0,2,2
+"Pennsylvania","Stolen property",29,10,0,3,0,3
+"Pennsylvania","Vandalism",151,170,86,64,24,128
+"Pennsylvania","Weapons",904,169,322,56,108,275
+"Pennsylvania","Prostitution",483,412,4,1,3,2
+"Pennsylvania","Sex offenses",247,136,108,23,6,127
+"Pennsylvania","Total Drug Violations",10764,5592,1052,385,95,1352
+"Pennsylvania","Sale (subtotal)",4002,2801,354,193,31,517
+"Pennsylvania","Sale-Opiates",2454,1960,211,133,22,323
+"Pennsylvania","Sale-Marijuana",1284,453,130,43,8,165
+"Pennsylvania","Sale-Synthetic narcotics",223,354,11,17,1,27
+"Pennsylvania","Sale-Other drugs",41,34,2,0,0,2
+"Pennsylvania","Possession (subtotal)",6762,2791,698,192,64,835
+"Pennsylvania","Possession-Opiates",2405,1631,105,34,6,134
+"Pennsylvania","Possession-Marijuana",3874,760,577,141,54,672
+"Pennsylvania","Possession-Synthetic narcotics",415,348,14,16,4,26
+"Pennsylvania","Possession-Other drugs",68,52,2,1,0,3
+"Pennsylvania","Family offenses",29,10,0,0,0,0
+"Pennsylvania","DUI",2374,1785,11,13,2,22
+"Pennsylvania","Liquor",143,257,17,199,84,133
+"Pennsylvania","Drunkenness",176,201,1,0,0,1
+"Pennsylvania","Disorderly conduct",2274,885,807,87,405,492
+"Pennsylvania","Vagrancy",810,143,112,5,3,116
+"Pennsylvania","All other non-traffic offenses",6775,2443,373,107,100,393
+"Pennsylvania","Curfew and Loitering",0,0,13537,5088,4635,14205
+"Pennsylvania","Gambling (total)",110,7,7,0,0,7
+"Pennsylvania","Bookmaking (horse and sports)",2,0,0,0,0,0
+"Pennsylvania","Number and lottery",24,3,0,0,0,0
+"Pennsylvania","All other gambling",84,4,7,0,0,7

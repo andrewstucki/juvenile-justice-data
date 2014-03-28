@@ -1,0 +1,41 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"New York","Rape",154,359,22,42,1,63
+"New York","Robbery",1634,1273,909,400,109,1213
+"New York","Aggravated assault",3562,5308,703,803,368,1153
+"New York","Burglary",1730,4431,746,1710,235,2234
+"New York","Larceny",10112,25310,2987,6114,4096,5170
+"New York","Fraud",1976,5443,149,160,89,224
+"New York","Stolen property",1389,2937,338,661,182,828
+"New York","Vandalism",2317,7135,873,2891,533,3264
+"New York","Weapons",1270,1971,272,367,59,590
+"New York","Prostitution",221,655,6,7,6,7
+"New York","Total Drug Violations",17512,35619,1303,4296,807,4857
+"New York","Sale (subtotal)",2169,2742,109,324,80,357
+"New York","Sale-Opiates",1011,1327,28,74,25,79
+"New York","Possession (subtotal)",15343,32877,1194,3972,727,4500
+"New York","Possession-Opiates",2069,3544,102,116,38,181
+"New York","Possession-Marijuana",9561,22686,935,3550,598,3943
+"New York","DUI",2319,25595,13,216,36,199
+"New York","Disorderly conduct",3056,9896,738,1580,647,1689
+"New York","Vagrancy",358,578,15,51,10,56
+"New York","All other non-traffic offenses",18755,53449,2277,6139,2282,6219
+"New York","Forgery and counterfeiting",1031,2862,39,124,54,112
+"New York","Sex offenses",576,2774,130,633,53,713
+"New York","Sale-Marijuana",293,568,53,179,41,193
+"New York","Family offenses",219,2023,18,313,125,208
+"New York","Other assaults",8269,19494,1680,2869,1506,3092
+"New York","Liquor",169,3705,36,998,335,708
+"New York","Murder and manslaughter",143,140,25,12,1,36
+"New York","Motor vehicle theft",722,1000,220,294,63,454
+"New York","Sale-Other drugs",830,769,25,48,6,67
+"New York","Possession-Other drugs",3628,6007,155,239,72,324
+"New York","Arson",71,248,23,145,18,154
+"New York","Gambling (total)",41,63,9,1,0,10
+"New York","All other gambling",39,14,9,1,0,10
+"New York","",0,0,0,0,0,0
+"New York","Manslaughter by negligence",8,31,1,0,1,0
+"New York","Bookmaking (horse and sports)",2,36,0,0,0,0
+"New York","Possession-Synthetic narcotics",85,640,3,68,20,53
+"New York","Embezzlement",48,149,0,5,3,2
+"New York","Sale-Synthetic narcotics",35,78,3,23,8,18
+"New York","Number and lottery",0,13,0,0,0,0

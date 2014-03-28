@@ -1,0 +1,35 @@
+"STATE","OFFENSE","AdultBlack","AdultWhite","JuvenileBlack","JuvenileWhite","JuvenileFemale","JuvenileMale"
+"Ohio","Murder and manslaughter",25,6,3,0,0,3
+"Ohio","Robbery",303,127,156,16,12,161
+"Ohio","Aggravated assault",106,62,13,9,3,19
+"Ohio","Burglary",305,207,157,34,15,177
+"Ohio","Larceny",390,383,76,35,41,72
+"Ohio","Motor vehicle theft",94,96,111,13,8,116
+"Ohio","Other assaults",1444,1076,271,121,136,261
+"Ohio","Forgery and counterfeiting",96,48,3,0,0,3
+"Ohio","Fraud",42,35,7,2,5,4
+"Ohio","Embezzlement",9,6,0,0,0,0
+"Ohio","Stolen property",107,70,34,10,3,42
+"Ohio","Vandalism",94,91,20,14,6,28
+"Ohio","Weapons",382,72,88,11,9,91
+"Ohio","Prostitution",57,151,0,0,0,0
+"Ohio","Sex offenses",16,28,4,6,0,12
+"Ohio","Total Drug Violations",720,367,42,10,4,49
+"Ohio","Sale (subtotal)",85,30,5,2,1,6
+"Ohio","Sale-Opiates",65,17,4,0,1,3
+"Ohio","Sale-Marijuana",18,10,1,1,0,2
+"Ohio","Possession (subtotal)",618,331,37,8,3,43
+"Ohio","Possession-Opiates",377,215,15,1,1,15
+"Ohio","Possession-Marijuana",208,85,20,5,2,24
+"Ohio","Possession-Synthetic narcotics",11,9,1,1,0,2
+"Ohio","Possession-Other drugs",22,22,1,1,0,2
+"Ohio","Family offenses",54,28,10,6,5,11
+"Ohio","DUI",190,138,0,0,0,0
+"Ohio","Liquor",102,99,3,7,2,8
+"Ohio","Disorderly conduct",229,336,42,5,10,37
+"Ohio","All other non-traffic offenses",3043,2404,328,83,106,309
+"Ohio","Curfew and Loitering",0,0,21,12,5,29
+"Ohio","Runaways",0,0,2,3,0,5
+"Ohio","Rape",25,17,2,2,0,4
+"Ohio","Arson",0,2,1,1,0,2
+"Ohio","Sale-Other drugs",2,3,0,1,0,1
